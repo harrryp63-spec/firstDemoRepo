@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/firstDemoRepo/static/css/main.fb25ae6c.css",
+    "main.js": "/firstDemoRepo/static/js/main.c6559112.js",
+    "service-worker.js": "/firstDemoRepo/service-worker.js",
+    "index.html": "/firstDemoRepo/index.html",
+    "main.fb25ae6c.css.map": "/firstDemoRepo/static/css/main.fb25ae6c.css.map",
+    "main.c6559112.js.map": "/firstDemoRepo/static/js/main.c6559112.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb25ae6c.css",
+    "static/js/main.c6559112.js"
+  ]
+}
