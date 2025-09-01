@@ -1,0 +1,14 @@
+// store/actionTypes.js
+
+// Auth
+export const LOGIN_START = "LOGIN_START";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAILURE = "LOGIN_FAILURE";
+export const LOGOUT = "LOGOUT";
+
+// Dashboard
+export const FETCH_DASHBOARD_START = "FETCH_DASHBOARD_START";
+export const FETCH_DASHBOARD_SUCCESS = "FETCH_DASHBOARD_SUCCESS";
+export const FETCH_DASHBOARD_FAILURE = "FETCH_DASHBOARD_FAILURE";
+
+

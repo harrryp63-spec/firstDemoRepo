@@ -1,0 +1,25 @@
+/* globalStyles.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    --military-sand: #e3dcc5;
+    --military-tan: #c6b89e;
+    --military-olive: #7d8c5c;
+    --military-dark-olive: #5a6340;
+    --military-brown: #8c7a6b;
+    --military-dark: #3c3c3c;
+    --text-dark: #2c2c2c;
+    --text-light: #f8f8f8;
+    --accent-gold: #c8b273;
+    --alert-red: #b74c4c;
+    --success-green: #4c8c5a;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
